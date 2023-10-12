@@ -33,7 +33,7 @@ paginate = 5
         identifier = "showcase"
         name = "Showcase"
         url = "/showcase"
-      [[lanuages.en.menu.main]]
+      [[languages.en.menu.main]]
         identifier = "contact"
 	name = "Contact"
 	url = "/contact"
