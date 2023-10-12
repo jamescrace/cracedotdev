@@ -5,10 +5,10 @@ paginate = 5
 
 [params]
   contentTypeName = "posts"
-  themeColor = "orange"
+  themeColor = "green"
   showMenuItems = 3 
   fullWidthTheme = false
-  centerTheme = false
+  centerTheme = true
 
 [languages]
   [languages.en]
